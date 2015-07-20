@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[GitHub]]></title>
-  <link href="/atom.xml" rel="self"/>
-  <link href="/"/>
-  <updated>2015-07-20T16:56:48+05:30</updated>
-  <id>/</id>
+  <link href="deepubarath/sample.github.io/atom.xml" rel="self"/>
+  <link href="deepubarath/sample.github.io/"/>
+  <updated>2015-07-20T17:02:21+05:30</updated>
+  <id>deepubarath/sample.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     <email><![CDATA[]]></email>
@@ -14,17 +14,17 @@
 
   <entry>
     <title type="html"><![CDATA[Post Two]]></title>
-    <link href="/2015/07/20/Post-Two.html"/>
+    <link href="deepubarath/sample.github.io/2015/07/20/Post-Two.html"/>
     <updated>2015-07-20T11:27:12+00:00</updated>
-    <id>/2015/07/20/Post-Two.html</id>
+    <id>deepubarath/sample.github.io/2015/07/20/Post-Two.html</id>
     <content type="html"><![CDATA[<p>Sample Post</p>
 ]]></content>
   </entry>
 <entry>
     <title type="html"><![CDATA[Post One]]></title>
-    <link href="/2015/07/20/Post-One.html"/>
+    <link href="deepubarath/sample.github.io/2015/07/20/Post-One.html"/>
     <updated>2015-07-20T11:27:01+00:00</updated>
-    <id>/2015/07/20/Post-One.html</id>
+    <id>deepubarath/sample.github.io/2015/07/20/Post-One.html</id>
     <content type="html"><![CDATA[<p>Sample Post</p>
 ]]></content>
   </entry>
