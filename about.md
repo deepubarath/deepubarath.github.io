@@ -6,17 +6,17 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>GitHub</title>
+        <title>Sample</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="deepubarath/sample.github.io/theme/css/normalize.css">
-        <link rel="stylesheet" href="deepubarath/sample.github.io/theme/css/main.css">
-        <link rel="shortcut icon" href="deepubarath/sample.github.io/theme/favicon.ico" type="image/x-icon"/>
-        <script src="deepubarath/sample.github.io/theme/js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="deepubarath/sample.github.io/theme/js/jquery.min.js"></script>
+        <link rel="stylesheet" href="/theme/css/normalize.css">
+        <link rel="stylesheet" href="/theme/css/main.css">
+        <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon"/>
+        <script src="/theme/js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="/theme/js/jquery.min.js"></script>
 
        <style>
         a
@@ -65,15 +65,15 @@
         <section class="container">
         <a href="">
           <div width="256" height="94">
-            <h2> GitHub </h2>
-            <h4> My Awesome Blog </h4>
+            <h2> Sample </h2>
+            <h4> Hello </h4>
           </div>
         </a>
         <nav>
         <ul>
-        <li><a href="deepubarath/sample.github.io/index.html"> <i class="icon-home-1"></i></a></li>
-        <li><a href="deepubarath/sample.github.io/about.html"><i class="icon-info-circled"></i></a></li>
-        <li><a href="deepubarath/sample.github.io/atom.xml"><i class="icon-rss"></i></a></li>
+        <li><a href="/index.html"> <i class="icon-home-1"></i></a></li>
+        <li><a href="/about.html"><i class="icon-info-circled"></i></a></li>
+        <li><a href="/atom.xml"><i class="icon-rss"></i></a></li>
         </ul>
         </nav>
       </section>
@@ -84,49 +84,9 @@
 	<section class="container" id="posts">
 		<div class="left-container">
 	  		<article class="list clearfix">
-		  		<h3>Post One</h3>
-		 		<span class="by">Posted on 20 Jul 2015.</span>
-				<p><p>Sample Post</p>
-</p>
-		
-				<div class="socialbar">
-					<div class="clearfix"></div>
-					<ul>
-						<li>
-						
-						</li>
-						<li><i class="icon-comment"></i> 
-							<span> 
-								<a href="deepubarath/sample.github.io/2015/07/20/Post-One.html#disqus_thread">Post One</a>
-                                <fb:comments-count href=deepubarath/sample.github.io/2015/07/20/Post-One.html></fb:comments-count>
-                                <div class="g-commentcount" data-href="deepubarath/sample.github.io/2015/07/20/Post-One.html"></div> 
-                            </span>
-                        </li>
-						<li class="push-right">
-							<a href="https://twitter.com/intent/tweet?text=deepubarath/sample.github.io/2015/07/20/Post-One.html" onclick="javascript:window.open(this.href,
-                                '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-twitter-circled"></i></a>
-							<a href="http://www.facebook.com/share.php?u=deepubarath/sample.github.io/2015/07/20/Post-One.html" onclick="javascript:window.open(this.href,
-                                '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-facebook-circled"></i></a>
-							<a href="https://plus.google.com/share?url=deepubarath/sample.github.io/2015/07/20/Post-One.html" onclick="javascript:window.open(this.href,
-                                '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="icon-gplus-circled"></i></a>
-						</li>
-					</ul>
-				</div>   
-			<!--DISPLAY DISQUS COMMENTS-->
-	  		  <div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'false'; // required: replace example with your forum shortname
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-     })();
-    </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> 
+	  			<h3></h3>
+				<p><p>Here goes the about content.</p>
+</p>    
 	  		</article>
 		</div>
 			
@@ -147,14 +107,7 @@
                 <li>
                   <span class="icon-right-dir"><i>"2015"</i></span>
                 <ul>
-                <li><a href="deepubarath/sample.github.io/2015/07/20/Post-Two.html">Post Two</a></li>
-</ul>
-                  </li>
-                
-                <li>
-                  <span class="icon-right-dir"><i>"2015"</i></span>
-                <ul>
-                <li><a href="deepubarath/sample.github.io/2015/07/20/Post-One.html">Post One</a></li>
+                <li><a href="/2015/08/17/Hello-World.html">Hello World</a></li>
 
           </ul>
          </div>
@@ -185,10 +138,10 @@
 
 
 
-        <script src="deepubarath/sample.github.io/theme/js/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="deepubarath/sample.github.io/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="deepubarath/sample.github.io/theme/js/plugins.js"></script>
-        <script src="deepubarath/sample.github.io/theme/js/main.js"></script>
+        <script src="/theme/js/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/theme/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="/theme/js/plugins.js"></script>
+        <script src="/theme/js/main.js"></script>
 
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
