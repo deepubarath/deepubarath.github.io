@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sample]]></title>
+  <title><![CDATA[akdj]]></title>
   <link href="/atom.xml" rel="self"/>
   <link href="/"/>
-  <updated>2015-08-17T10:44:38+05:30</updated>
+  <updated>2015-08-19T10:58:50+05:30</updated>
   <id>/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,14 +12,6 @@
   </author>
   <generator uri="http://www.statiked.com/">Statiked</generator>
 
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="/2015/08/17/Hello-World.html"/>
-    <updated>2015-08-17T05:15:09+00:00</updated>
-    <id>/2015/08/17/Hello-World.html</id>
-    <content type="html"><![CDATA[<p>Sample Post</p>
-]]></content>
-  </entry>
-
+  
   
 </feed>
